@@ -7,4 +7,4 @@
 <hr>
 
 + Sparkfun -- ESP8266
-+ Seedstudio -- TFT touch shield
++ Seedstudio -- TFT touch shields
