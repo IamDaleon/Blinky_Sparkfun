@@ -1,4 +1,4 @@
 // Keepsafe
 
 ID    = "Daedalus";
-PASS = "southmajor";
+PASS = "south";
